@@ -1,1 +1,1 @@
-# rsschool-cv
+https://janemasha.github.io/rsschool-cv/
