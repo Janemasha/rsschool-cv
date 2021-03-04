@@ -2,7 +2,7 @@
   
 Junior Frontend Developer
 
---------------------
+---
 
 Date of birth: 22.09.1994
 
@@ -16,9 +16,7 @@ Phone number: +375445395834
 
 ## About
 
-I'm a beginner front-end developer. For a long time, I have been doing various jobs from organizing events to business intelligence. At the moment, I decided to change the field of activity and choose a new direction. So I chose front-end development. There is an opportunity for continuous improvement of knowledge and skills, as well as the application of my knowledge in mathematics and other exact sciences. 
-
-My short term goal is to gain experience and become a higher level front-end developer. And in the long term: master back-end development as well. The possibility of constant professional and personal growth, the fulfillment of diverse tasks are the main points on which I focus on when looking for a job.
+I'm a beginner front-end developer. For a long time, I have been doing various jobs from organizing events to business intelligence. At the moment, I decided to change the field of activity and choose a new direction. So I chose front-end development. There is an opportunity for continuous improvement of knowledge and skills, as well as the application of my knowledge in mathematics and other exact sciences. My short term goal is to gain experience and become a higher level front-end developer. And in the long term: master back-end development as well. The possibility of constant professional and personal growth, the fulfillment of diverse tasks are the main points on which I focus on when looking for a job.
 
 ---
 
